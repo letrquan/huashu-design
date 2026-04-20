@@ -39,7 +39,7 @@ npx skills add alchaincyf/huashu-design
 
 <p align="center"><sub>
   ▲ 25 秒 · Terminal → 4 方向 → Gallery ripple → 4 次 Focus → Brand reveal<br>
-  👉 <a href="https://huasheng.ai/huashu-design/hero/">访问带音效的 HTML 互动版</a> ·
+  👉 <a href="https://www.huasheng.ai/huashu-design-hero/">访问带音效的 HTML 互动版</a> ·
   <a href="demos/hero-animation-v9.mp4">下载 MP4（含 BGM+SFX · 10MB）</a>
 </sub></p>
 
