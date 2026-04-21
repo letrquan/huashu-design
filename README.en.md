@@ -1,4 +1,4 @@
-<sub><b>🌐 English</b> · <a href="README.md">中文</a></sub>
+<sub><b>🌐 English</b> · <a href="README.vi.md">Tiếng Việt</a> · <a href="README.md">中文</a></sub>
 
 <div align="center">
 
@@ -24,7 +24,7 @@ Not "decent for AI" quality — it looks like a real design team made it. Give t
 **Every animation in this README was made by huashu-design itself.** No Figma, no After Effects — just a sentence + skill run. Next product launch needs a promo video? You can make it too.
 
 ```
-npx skills add alchaincyf/huashu-design
+npx skills add letrquan/huashu-design
 ```
 
 [See it work](#demo-gallery) · [Install](#install) · [What it does](#what-it-does) · [How it works](#core-mechanics) · [vs. Claude Design](#vs-claude-design)
@@ -48,7 +48,7 @@ npx skills add alchaincyf/huashu-design
 ## Install
 
 ```bash
-npx skills add alchaincyf/huashu-design
+npx skills add letrquan/huashu-design
 ```
 
 Then just talk to Claude Code:
